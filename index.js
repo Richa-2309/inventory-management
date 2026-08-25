@@ -5,9 +5,6 @@ import path from 'path';
 import product_Controller from './src/controllers/product-controller.js';
 
 
-
-
-
 const server = express();
 const productController = new product_Controller();
 
@@ -19,8 +16,6 @@ server.get('/', productController.getproduct);
 // res.sendFile(
 //         path.join(path.resolve(), 'src/views/products.html')
 //     );
-
-//
 // });
 server.use(express.static('src/views'));
 //set view engine and views directory
