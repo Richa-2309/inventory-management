@@ -6,6 +6,7 @@ export default class ProductModel {
         this.description = description;
         this.image = image;
     }
+    // static product model
     static get(){
         return ProductModel.products;
     }
