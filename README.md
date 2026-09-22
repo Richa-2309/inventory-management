@@ -189,12 +189,3 @@ The project can be extended with:
 * 📈 Sales reports
 * ⭐ Book reviews and ratings
 
-## 👩‍💻 Author
-
-**Richa Kumari**
-
-Built using **JavaScript + Node.js + Express.js + EJS**.
-
-## 📄 License
-
-This project is created for learning and development purposes.
