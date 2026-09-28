@@ -100,18 +100,7 @@ Each book contains information such as:
 | `image`       | Book image         |
 | `category`    | Book category      |
 
-## 🔗 Application Routes
-
-| Method | Route                  | Description          |
-| ------ | ---------------------- | -------------------- |
-| GET    | `/`                    | Home page            |
-| GET    | `/products`            | Display all books    |
-| GET    | `/products/:id`        | Display book details |
-| GET    | `/products/add`        | Add a new book       |
-| POST   | `/products`            | Save a new book      |
-| GET    | `/products/:id/edit`   | Edit book details    |
-| POST   | `/products/:id`        | Update book          |
-| POST   | `/products/:id/delete` | Delete book          |
+ |
 
 ## 🧩 MVC Architecture
 
