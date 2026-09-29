@@ -163,18 +163,13 @@ EJS View
 Browser
 ```
 
-## 💡 Future Improvements
 
-The project can be extended with:
-
-* 🔐 User authentication
-* 🛒 Shopping cart
-* 💳 Online payment
-* 🗄️ MongoDB/MySQL database
-* 📦 Order management
-* 👤 User profile
-* 🔎 Book search and filtering
-* 📊 Admin dashboard
+ 
+ 
+ 
+ 
+ 
+ Admin dashboard
 * 📈 Sales reports
 * ⭐ Book reviews and ratings
 
